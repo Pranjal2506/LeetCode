@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjal2506/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranjal2506/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Pranjal2506/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjal2506/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranjal2506/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Pranjal2506/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -31,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Pranjal2506/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Array
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
