@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/Pranjal2506/LeetCode/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
