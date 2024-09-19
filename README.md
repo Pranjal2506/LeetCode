@@ -108,13 +108,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pranjal2506/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
