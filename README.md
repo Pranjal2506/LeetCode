@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranjal2506/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Pranjal2506/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1254-deepest-leaves-sum](https://github.com/Pranjal2506/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranjal2506/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Pranjal2506/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1254-deepest-leaves-sum](https://github.com/Pranjal2506/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranjal2506/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Pranjal2506/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1254-deepest-leaves-sum](https://github.com/Pranjal2506/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pranjal2506/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranjal2506/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/Pranjal2506/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Array
 |  |
 | ------- |
