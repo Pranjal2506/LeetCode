@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pranjal2506/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Pranjal2506/LeetCode/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Pranjal2506/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3396-valid-word](https://github.com/Pranjal2506/LeetCode/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjal2506/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0149-max-points-on-a-line](https://github.com/Pranjal2506/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pranjal2506/LeetCode/tree/master/0169-majority-element) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranjal2506/LeetCode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
