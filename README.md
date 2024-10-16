@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pranjal2506/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Pranjal2506/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjal2506/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pranjal2506/LeetCode/tree/master/0011-container-with-most-water) |
 | [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal2506/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Design
@@ -179,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pranjal2506/LeetCode/tree/master/0011-container-with-most-water) |
 | [2756-buy-two-chocolates](https://github.com/Pranjal2506/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
