@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pranjal2506/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pranjal2506/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranjal2506/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/Pranjal2506/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pranjal2506/LeetCode/tree/master/0792-binary-search) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranjal2506/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Pranjal2506/LeetCode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranjal2506/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Pranjal2506/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pranjal2506/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Pranjal2506/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Pranjal2506/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pranjal2506/LeetCode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranjal2506/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Pranjal2506/LeetCode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pranjal2506/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pranjal2506/LeetCode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranjal2506/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal2506/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/Pranjal2506/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pranjal2506/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranjal2506/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal2506/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranjal2506/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Design
