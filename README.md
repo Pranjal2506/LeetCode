@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranjal2506/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pranjal2506/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pranjal2506/LeetCode/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/Pranjal2506/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pranjal2506/LeetCode/tree/master/0792-binary-search) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pranjal2506/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pranjal2506/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal2506/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranjal2506/LeetCode/tree/master/3195-separate-black-and-white-balls) |
