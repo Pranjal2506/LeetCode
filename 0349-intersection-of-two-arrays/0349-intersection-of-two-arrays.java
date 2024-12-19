@@ -16,8 +16,6 @@ class Solution {
         }
         int arr[] = new int[count];
         int j = 0;
-        System.out.println(set1);
-        System.out.println(set2);
         for(int i: set1){
             if(set2.contains(i)){
                 arr[j] = i;
