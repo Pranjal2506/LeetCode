@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranjal2506/LeetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pranjal2506/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Pranjal2506/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pranjal2506/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjal2506/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pranjal2506/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranjal2506/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Pranjal2506/LeetCode/tree/master/0278-first-bad-version) |
