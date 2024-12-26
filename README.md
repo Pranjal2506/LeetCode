@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjal2506/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Pranjal2506/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Pranjal2506/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranjal2506/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Pranjal2506/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Pranjal2506/LeetCode/tree/master/0567-permutation-in-string) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal2506/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranjal2506/LeetCode/tree/master/3195-separate-black-and-white-balls) |
