@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranjal2506/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjal2506/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Pranjal2506/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pranjal2506/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Pranjal2506/LeetCode/tree/master/0567-permutation-in-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pranjal2506/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranjal2506/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/Pranjal2506/LeetCode/tree/master/3396-valid-word) |
 ## Hash Table
