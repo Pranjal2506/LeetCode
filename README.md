@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranjal2506/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Pranjal2506/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Pranjal2506/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Pranjal2506/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pranjal2506/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranjal2506/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Pranjal2506/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Pranjal2506/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/Pranjal2506/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pranjal2506/LeetCode/tree/master/0792-binary-search) |
@@ -293,4 +295,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pranjal2506/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Pranjal2506/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
