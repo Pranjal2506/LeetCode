@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pranjal2506/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranjal2506/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Pranjal2506/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pranjal2506/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pranjal2506/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Pranjal2506/LeetCode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pranjal2506/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranjal2506/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/Pranjal2506/LeetCode/tree/master/3396-valid-word) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Pranjal2506/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Pranjal2506/LeetCode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranjal2506/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal2506/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/Pranjal2506/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Pranjal2506/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/Pranjal2506/LeetCode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Pranjal2506/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pranjal2506/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranjal2506/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Pranjal2506/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -300,4 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pranjal2506/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranjal2506/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
