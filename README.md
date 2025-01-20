@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Pranjal2506/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pranjal2506/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2756-buy-two-chocolates](https://github.com/Pranjal2506/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranjal2506/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Pranjal2506/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Pranjal2506/LeetCode/tree/master/0189-rotate-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranjal2506/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranjal2506/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Pranjal2506/LeetCode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Pranjal2506/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pranjal2506/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranjal2506/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -320,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Pranjal2506/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Simulation
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranjal2506/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
