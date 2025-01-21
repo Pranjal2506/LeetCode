@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pranjal2506/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranjal2506/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Pranjal2506/LeetCode/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranjal2506/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Pranjal2506/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pranjal2506/LeetCode/tree/master/0792-binary-search) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal2506/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranjal2506/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Pranjal2506/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranjal2506/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Pranjal2506/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Math
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pranjal2506/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pranjal2506/LeetCode/tree/master/0724-find-pivot-index) |
 ## Queue
 |  |
