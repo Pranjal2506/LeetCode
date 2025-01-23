@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranjal2506/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Pranjal2506/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pranjal2506/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pranjal2506/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjal2506/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranjal2506/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pranjal2506/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Pranjal2506/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjal2506/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranjal2506/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Pranjal2506/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranjal2506/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
