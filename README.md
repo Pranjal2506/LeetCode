@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Pranjal2506/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Pranjal2506/LeetCode/tree/master/0189-rotate-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranjal2506/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Pranjal2506/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranjal2506/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Geometry
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Pranjal2506/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Pranjal2506/LeetCode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Pranjal2506/LeetCode/tree/master/1127-last-stone-weight) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Pranjal2506/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Pranjal2506/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pranjal2506/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranjal2506/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranjal2506/LeetCode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/Pranjal2506/LeetCode/tree/master/0890-lemonade-change) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Pranjal2506/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Pranjal2506/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pranjal2506/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2756-buy-two-chocolates](https://github.com/Pranjal2506/LeetCode/tree/master/2756-buy-two-chocolates) |
