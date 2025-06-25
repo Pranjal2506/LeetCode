@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pranjal2506/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Pranjal2506/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pranjal2506/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Pranjal2506/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjal2506/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranjal2506/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranjal2506/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pranjal2506/LeetCode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Pranjal2506/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Sorting
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pranjal2506/LeetCode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranjal2506/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Two Pointers
 |  |
